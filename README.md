@@ -1,7 +1,8 @@
 ## Sales-Analysis-SQL-Project
 
 ## 📌 Project Overview
-This project focuses on analyzing retail sales data using SQL to answer common business questions related to sales performance, customer behavior, and category-wise trends. The analysis is performed on a single table dataset that captures transactional-level sales information.
+This project focuses on analyzing retail sales data using SQL to answer common business questions related to sales performance, customer behavior, and category-wise trends. 
+The analysis is performed on a single table dataset that captures transactional-level sales information.
 
 ---
 
@@ -28,7 +29,7 @@ This project focuses on analyzing retail sales data using SQL to answer common b
 - GROUP BY & HAVING
 - CASE WHEN statements
 - EXTRACT function (date-based analysis)
-- Common filtering techniques
+- SUB-QUERIES (For Data Filtering)
 - CTAS (Create Table As Select)
 
 ---
